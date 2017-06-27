@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\MainWindow.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\MainWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\App.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\Get_Pointing_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\Get_Pointing.g.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\Get_Pointing.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\Get_Pointing.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\bin\Release\Get_Pointing.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\bin\Release\Get_Pointing.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\bin\Release\Get_Pointing.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\Get_Pointing.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\Get_Pointing.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Get_Pointing\Get_Pointing\obj\Release\Get_Pointing.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Program Files\Princeton Instruments\LightField\AddIns\FilterWheelControl\FilterWheelControl.dll
+C:\Program Files\Princeton Instruments\LightField\AddIns\FilterWheelControl\FilterWheelControl.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\FilterWheelControl\FilterWheelControl\FilterWheelControl\obj\x64\Debug\ControlPanel.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\FilterWheelControl\FilterWheelControl\FilterWheelControl\obj\x64\Debug\ControlPanel.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\FilterWheelControl\FilterWheelControl\FilterWheelControl\obj\x64\Debug\FilterWheelControl_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\FilterWheelControl\FilterWheelControl\FilterWheelControl\obj\x64\Debug\FilterWheelControl.g.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\FilterWheelControl\FilterWheelControl\FilterWheelControl\obj\x64\Debug\FilterWheelControl.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\FilterWheelControl\FilterWheelControl\FilterWheelControl\obj\x64\Debug\FilterWheelControl.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\FilterWheelControl\FilterWheelControl\FilterWheelControl\obj\x64\Debug\FilterWheelControl.csprojResolveAssemblyReference.cache
